@@ -1,0 +1,10 @@
+Beras 98
+Gula 32
+Minyak 30
+Telur 35
+Kopi 53
+Teh 53
+Susu 25
+Sabun 45
+Mi 100
+Roti 30
